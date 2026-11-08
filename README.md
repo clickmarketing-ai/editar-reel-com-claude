@@ -1,6 +1,6 @@
 # Editar Reel com o Claude
 
-> **Este guia mudou de casa.** Agora ele fica no [Kit IA](https://github.com/felipeoliveira-ai/kit-ia/tree/main/editar-reel-com-claude), junto com os guias dos outros vídeos. Esta página continua no ar, mas as atualizações vão para lá.
+> **Este guia mudou de casa.** Agora ele fica no [Vibe Coding](https://github.com/felipeoliveira-ai/vibe-coding/tree/main/editar-reel-com-claude), junto com os guias dos outros vídeos. Esta página continua no ar, mas as atualizações vão para lá.
 
 Você precisa de 3 coisas.
 
